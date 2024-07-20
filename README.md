@@ -1,7 +1,7 @@
 # voice-command-app
 This is a simple web application built using the JavaScript Web Speech API that allows you to interact with the web using voice commands.
 
-** Features:
+**Features:**
 
 Responds to "hello" with a popup message.
 Opens popular websites ("Google", "Twitter", "LinkedIn") in new tabs when commanded.
