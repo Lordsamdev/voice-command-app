@@ -10,7 +10,7 @@ Getting Started
 Clone the repository:
 
 ```bash
-git clone https://github.com/Lordsamdev/voice-command-app/voice-command-app.git
+git clone https://github.com/Lordsamdev/voice-command-app/voice-command-app.git```
 Open the index.html file in your browser.
 
 Grant microphone access:
